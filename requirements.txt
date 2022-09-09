@@ -37,7 +37,6 @@ setuptools==63.2.0
 Shapely==1.8.4
 sip==6.6.2
 six==1.16.0
-skimage==0.0
 tqdm==4.64.1
 visualdl==2.4.0
 wandb==0.13.3
